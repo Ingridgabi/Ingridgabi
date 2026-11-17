@@ -1,16 +1,13 @@
-## Hi there 👋
+# Oi, eu sou a Ingrid
 
-<!--
-**Ingridgabi/Ingridgabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo Análise e Desenvolvimento de Sistemas e estou direcionando minha carreira para Análise de Dados e BI. Gosto de investigar o que explica um resultado, como a diferença entre o que foi vendido e a meta.
 
-Here are some ideas to get you started:
+Trabalho com **Power BI, Power Query, DAX e Excel** nos meus projetos e estou aprendendo **SQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+
+- **[Rede Aurora](https://ingridgabi.github.io/portfolio/#projetos)** — dashboard comercial em Power BI. Contribuí com medidas DAX e validação de indicadores de faturamento e volume de serviços em relação às metas.
+- **[Porsche Sales Dashboard](https://github.com/Ingridgabi/porsche-sales-dashboard)** — visualização interativa de dados de vendas.
+- **[Doce Mel Gestão](https://github.com/Ingridgabi/docemel-gestao)** — sistema de gestão com vendas, estoque e relatórios.
+
+**[Portfólio](https://ingridgabi.github.io/portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/ingrid-ferreira-cs)**
