@@ -6,7 +6,7 @@ Trabalho com **Power BI, Power Query, DAX e Excel** nos meus projetos e estou ap
 
 ## Projetos em destaque
 
-[![Rede Aurora — dashboard comercial. Ver projeto.](assets/rede-aurora.png)](https://ingridgabi.github.io/portfolio/#projetos)
+[![Rede Aurora — dashboard comercial. Abrir no Power BI.](assets/rede-aurora.png)](https://app.powerbi.com/view?r=eyJrIjoiMjViZDY0NmMtYjU4OS00NmFiLWI0YTItOWNiMmM4MDU0N2YxIiwidCI6IjRkN2ZkODgwLTVjZGQtNGZiMC04YTMyLWYxYzNjYzM0NDc2ZCJ9)
 
 Contribuí com medidas DAX e validação de indicadores de faturamento e volume de serviços em relação às metas.
 
